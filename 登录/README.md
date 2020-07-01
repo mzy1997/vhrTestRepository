@@ -8,7 +8,7 @@
 
 ### 登录页面
 
-![](D:/vhr/vhrTestRepository/images/登录页面.png)
+![](../images/登录页面.png)
 
 <p>如果图片无法打开，请修改host文件</p>
 <ul style="font-size:16px">
