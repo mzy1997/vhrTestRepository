@@ -16,6 +16,8 @@
 
 ![](./images/系统模块.png)
 
+<p>如果图片无法打开，请修改host文件</p>
+
 ## 2.测试内容概述
 
 <ul style="font-size:16px">
