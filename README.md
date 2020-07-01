@@ -14,7 +14,7 @@
 <li>主要功能模块：</li> 
 </ul>
 
-<img src="https://github.com/mzy1997vhrTestRepository/images/系统模块.png"/>
+![](./images/系统模块.png)
 
 ## 2.测试内容概述
 
