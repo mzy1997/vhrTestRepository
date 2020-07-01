@@ -7,7 +7,6 @@
 <p style="font-size:16px"> 这里引用了vhr项目的介绍</p>
 
 <p style="font-size:16px"> vhr项目地址：https://github.com/lenve/vhr</p><ul style="font-size:16px">
-<ul>
 <li>微人事是一个前后端分离的人力资源管理系统，项目采用 SpringBoot+Vue 开发，项目加入常见的企业级应用所涉及到的技术点，例如 Redis、RabbitMQ 等。</li>
 <li>后端技术栈：SpringBoot、SpringSecurity、Mybatis、MySQL、Redis、RabbitMQ、Spring Cache、WebSocket...</li>
 <li>前端技术栈：Vue、ElementUI、axios、vue-router、Vuewx、WebSocket、vue-cli4</li>
